@@ -33,6 +33,9 @@ Improvements:
   - Have job_dispatch propagate events to prepare for a new ensemble evaluator
   - Have the RMS-job keep track of default Python environment
 
+Bug fixes:
+  - Fix crash of plotter if plotting results with observations during a run
+
 7.0.0 libres
 ~~~~~~~~~~~~
 See ERT release notes
